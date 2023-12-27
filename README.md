@@ -1,0 +1,1 @@
+In this code, we have 4 features x-acceleration, y-acceleration, z-acceleration and magnitude. We have to predict the activity classes. For this I have used 1D and 2D CNN models. We have got an accuracy of 94% for 1D CNN and 92% for 2D CNN. 
